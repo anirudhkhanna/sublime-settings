@@ -1,0 +1,21 @@
+{
+    /* Font */
+    "font_size": 16,
+    "line_padding_bottom": 2,
+    "caret_extra_bottom": 8,
+    "line_padding_top": 5,
+    "caret_extra_top": 8,
+
+    /* Caret */
+    "caret_style": "solid",
+    "caret_extra_width": 2,
+
+    /* Misc Settings */
+    "typewriter_mode_scrolling": true,
+    "line_numbers": false,
+    "gutter": false,
+    "draw_centered": true,
+    "wrap_width": 80,
+    "word_wrap": true,
+    "scroll_past_end": true
+}
